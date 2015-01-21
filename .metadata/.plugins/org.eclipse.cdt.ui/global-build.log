@@ -1,12 +1,12 @@
-16:18:11 **** Incremental Build of configuration Debug for project holefile ****
+17:37:07 **** Incremental Build of configuration Debug for project fdflags ****
 make all 
-Building file: ../source/holefile.cpp
+Building file: ../source/fdflags.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"source/holefile.d" -MT"source/holefile.d" -o "source/holefile.o" "../source/holefile.cpp"
-Finished building: ../source/holefile.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"source/fdflags.d" -MT"source/fdflags.d" -o "source/fdflags.o" "../source/fdflags.cpp"
+Finished building: ../source/fdflags.cpp
  
-Building target: holefile
+Building target: fdflags
 Invoking: Cross G++ Linker
-g++  -o "holefile"  ./source/holefile.o   
-Finished building target: holefile
+g++  -o "fdflags"  ./source/fdflags.o   
+Finished building target: fdflags
  
