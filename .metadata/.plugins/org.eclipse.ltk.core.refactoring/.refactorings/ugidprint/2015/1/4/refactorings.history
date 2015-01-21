@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ugidprint/source/ugid.cpp&apos; to &apos;ugidprint.cpp&apos;" description="Rename resource &apos;ugid.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="source/ugid.cpp" name="ugidprint.cpp" stamp="1421841342339" updateReferences="true"/>
+</session>
