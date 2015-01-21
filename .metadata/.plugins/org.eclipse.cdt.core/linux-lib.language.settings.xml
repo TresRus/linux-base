@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project>
+<<<<<<< HEAD
 	<configuration id="cdt.managedbuild.config.gnu.cross.lib.debug.390712582" name="Debug">
+=======
+	<configuration id="cdt.managedbuild.config.gnu.cross.lib.debug.1651801499" name="Debug">
+>>>>>>> test
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
 			<provider id="org.eclipse.cdt.build.crossgcc.CrossGCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">
@@ -1456,7 +1460,11 @@
 			</provider>
 		</extension>
 	</configuration>
+<<<<<<< HEAD
 	<configuration id="cdt.managedbuild.config.gnu.cross.lib.release.1544351993" name="Release">
+=======
+	<configuration id="cdt.managedbuild.config.gnu.cross.lib.release.566797155" name="Release">
+>>>>>>> test
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
 			<provider id="org.eclipse.cdt.build.crossgcc.CrossGCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">

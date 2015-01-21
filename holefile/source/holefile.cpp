@@ -48,6 +48,7 @@ int main(void)
 	}
 
 	int curr_pos = 0;
+
 	while( ( curr_pos = lseek(fd, 0, SEEK_CUR) ) != 16384
 	    && ( curr_pos != -1 ) )
 	{
