@@ -1,6 +1,15 @@
-14:37:16 **** Incremental Build of configuration Debug for project ls ****
+15:23:44 **** Incremental Build of configuration Debug for project ls ****
 make all 
-make: Nothing to be done for `all'.
+Building file: ../source/ls.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"source/ls.d" -MT"source/ls.d" -o "source/ls.o" "../source/ls.cpp"
+Finished building: ../source/ls.cpp
+ 
+Building target: ls
+Invoking: Cross G++ Linker
+g++  -o "ls"  ./source/ls.o   
+Finished building target: ls
+ 
 
-14:37:16 Build Finished (took 153ms)
+15:23:44 Build Finished (took 290ms)
 
