@@ -19,7 +19,6 @@ int main(int argc, char *argv[])
 	if( signal(SIGINT, sig_int) == SIG_ERR)
 	{
 		perror("signal");
-		return 1;
 	}
 
 	printf("%% ");

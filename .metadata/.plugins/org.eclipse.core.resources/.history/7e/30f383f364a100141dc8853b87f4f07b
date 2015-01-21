@@ -16,12 +16,6 @@ int main(int argc, char *argv[])
 	pid_t pid;
 	int status;
 
-	if( signal(SIGINT, sig_int) == SIG_ERR)
-	{
-		perror("signal");
-		return 1;
-	}
-
 	printf("%% ");
 
 	while( fgets(buf, MAXLINE, stdin) != NULL )
