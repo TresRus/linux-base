@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+	int c;
+
+	while ( (c = getc(stdin) ) != EOF )
+	{
+		if( putc(c, stdout) == n)
+		{
+			perror("stdout");
+			return 1;
+		}
+	}
+	if(n < 0)
+	{
+		perror("read");
+		return 1;
+	}
+
+	return 0;
+}

@@ -10,3 +10,6 @@ Invoking: Cross G++ Linker
 g++  -o "stdinout"  ./source/stdinout.o   
 Finished building target: stdinout
  
+
+15:18:25 Build Finished (took 260ms)
+
