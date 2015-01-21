@@ -1,15 +1,6 @@
-16:18:11 **** Incremental Build of configuration Debug for project holefile ****
+18:13:44 **** Incremental Build of configuration Debug for project holefile ****
 make all 
-Building file: ../source/holefile.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"source/holefile.d" -MT"source/holefile.d" -o "source/holefile.o" "../source/holefile.cpp"
-Finished building: ../source/holefile.cpp
- 
-Building target: holefile
-Invoking: Cross G++ Linker
-g++  -o "holefile"  ./source/holefile.o   
-Finished building target: holefile
- 
+make: Nothing to be done for `all'.
 
-16:18:11 Build Finished (took 208ms)
+18:13:44 Build Finished (took 147ms)
 
