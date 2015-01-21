@@ -1,12 +1,12 @@
-15:59:35 **** Incremental Build of configuration Debug for project shell ****
+16:18:11 **** Incremental Build of configuration Debug for project holefile ****
 make all 
-Building file: ../source/shell.cpp
+Building file: ../source/holefile.cpp
 Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"source/shell.d" -MT"source/shell.d" -o "source/shell.o" "../source/shell.cpp"
-Finished building: ../source/shell.cpp
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"source/holefile.d" -MT"source/holefile.d" -o "source/holefile.o" "../source/holefile.cpp"
+Finished building: ../source/holefile.cpp
  
-Building target: shell
+Building target: holefile
 Invoking: Cross G++ Linker
-g++  -o "shell"  ./source/shell.o   
-Finished building target: shell
+g++  -o "holefile"  ./source/holefile.o   
+Finished building target: holefile
  
