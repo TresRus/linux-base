@@ -1,6 +1,6 @@
 RemoteSystemsTempFiles/
-*/Debug/
-*/Release/
+*/build/
+*/bin/
 .metadata/
 */.project
 */.cproject
