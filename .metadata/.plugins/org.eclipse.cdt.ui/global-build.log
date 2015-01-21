@@ -1,27 +1,3 @@
-15:26:17 **** Incremental Build of configuration Debug for project pidprint ****
-make all 
-Building file: ../source/pidprint.cpp
-Invoking: Cross G++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"source/pidprint.d" -MT"source/pidprint.d" -o "source/pidprint.o" "../source/pidprint.cpp"
-Finished building: ../source/pidprint.cpp
- 
-Building target: pidprint
-Invoking: Cross G++ Linker
-g++  -o "pidprint"  ./source/pidprint.o   
-Finished building target: pidprint
- 
-15:26:21 **** Incremental Build of configuration Debug for project pidprint ****
-make all 
-make: Nothing to be done for `all'.
-15:26:23 **** Incremental Build of configuration Debug for project pidprint ****
-make all 
-make: Nothing to be done for `all'.
-15:26:24 **** Incremental Build of configuration Debug for project pidprint ****
-make all 
-make: Nothing to be done for `all'.
-15:26:25 **** Incremental Build of configuration Debug for project pidprint ****
-make all 
-make: Nothing to be done for `all'.
-15:26:26 **** Incremental Build of configuration Debug for project pidprint ****
+15:40:55 **** Incremental Build of configuration Debug for project shell ****
 make all 
 make: Nothing to be done for `all'.
