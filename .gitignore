@@ -1,5 +1,7 @@
+RemoteSystemsTempFiles/
 */Debug/
 */Release/
 .metadata/
-*/.project/
-*/.cproject/
+*/.project
+*/.cproject
+*/.settings/
