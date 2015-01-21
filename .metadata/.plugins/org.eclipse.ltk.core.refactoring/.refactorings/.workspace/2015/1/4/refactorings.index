@@ -1,1 +1,4 @@
 1421841330198	Rename resource 'ugid'
+1421849357218	Delete resource 'linux-lib'
+1421849529136	Delete resource 'linux-lib/include/fileflags.h'
+1421849550487	Delete resource 'linux-lib'
